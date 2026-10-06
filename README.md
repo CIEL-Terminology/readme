@@ -20,7 +20,7 @@ _Figures from the HEAD version, October 2026._
 
 ## Documentation
 
-**Everything you need to use, contribute to and understand CIEL is in the [Wiki](https://github.com/CIEL-Terminology/ciel.github/wiki).**
+**Everything you need to use, contribute to and understand CIEL is in the [Wiki](https://github.com/CIEL-Terminology/readme/wiki).**
 
 ## Get started
 
@@ -44,4 +44,4 @@ CIEL is not a static artifact. It is continuously reviewed and improved. AI-assi
 
 ## License
 
-CIEL is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) license. Some codes from other terminologies mapped in CIEL may be subject to third-party rights, and no license to them is conveyed by CIEL's authors. See [Terms of use](https://github.com/CIEL-Terminology/ciel.github/wiki/Governance) in the Wiki.
+CIEL is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) license. Some codes from other terminologies mapped in CIEL may be subject to third-party rights, and no license to them is conveyed by CIEL's authors. See [Terms of use](https://github.com/CIEL-Terminology/readme/wiki/Governance) in the Wiki.
