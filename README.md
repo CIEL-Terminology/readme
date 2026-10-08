@@ -10,8 +10,8 @@ CIEL sits between the language clinicians use at the point of care and the refer
 
 | | |
 |---|---|
-| **Concepts** | 55,500+ active |
-| **Mappings** | 330,000+ active |
+| **Concepts** | 55,545 active |
+| **Mappings** | 333,362 active |
 | **Locales** | 23 (5 with more than 95% coverage) |
 | **Releases** | Monthly, managed entirely in [Open Concept Lab](https://openconceptlab.org/) |
 | **License** | [CC BY 4.0](LICENSE) |
