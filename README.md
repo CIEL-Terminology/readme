@@ -4,7 +4,7 @@
 
 # CIEL Terminology
 
-
+![concepts](https://img.shields.io/endpoint?url=https://ciellab.filipelopes.med.br/api/v2/stats/badges/concepts) ![mappings](https://img.shields.io/endpoint?url=https://ciellab.filipelopes.med.br/api/v2/stats/badges/mappings) ![version](https://img.shields.io/endpoint?url=https://ciellab.filipelopes.med.br/api/v2/stats/badges/version)
 
 The **Columbia International eHealth Laboratory (CIEL) Terminology** is an open source, standardized clinical interface terminology used particularly by low- and middle-income countries (LMICs) to capture, map, and analyze health information.
 
