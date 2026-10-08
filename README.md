@@ -4,6 +4,8 @@
 
 # CIEL Terminology
 
+
+
 The **Columbia International eHealth Laboratory (CIEL) Terminology** is an open source, standardized clinical interface terminology used particularly by low- and middle-income countries (LMICs) to capture, map, and analyze health information.
 
 CIEL sits between the language clinicians use at the point of care and the reference terminologies used for interoperability, reporting and research, such as SNOMED CT, ICD-10, ICD-11, RxNorm, ATC, LOINC, CVX and OMOP.
