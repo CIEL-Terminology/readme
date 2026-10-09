@@ -2,23 +2,20 @@
   <img src="assets/banner.webp" alt="CIEL: a clinical interface terminology between the clinician's mind and reference terminologies such as SNOMED CT, RxNorm and LOINC" width="100%">
 </p>
 
-# CIEL Terminology
+<h1 align="center">CIEL Terminology</h1>
 
-![concepts](https://img.shields.io/endpoint?url=https://ciellab.filipelopes.med.br/api/v2/stats/badges/concepts) ![mappings](https://img.shields.io/endpoint?url=https://ciellab.filipelopes.med.br/api/v2/stats/badges/mappings) ![version](https://img.shields.io/endpoint?url=https://ciellab.filipelopes.med.br/api/v2/stats/badges/version)
+<div align="center">
 
-The **Columbia International eHealth Laboratory (CIEL) Terminology** is an open source, standardized clinical interface terminology used particularly by low- and middle-income countries (LMICs) to capture, map, and analyze health information.
+**Open source, standardized clinical interface terminology to capture, map and analyze health information, especially in low- and middle-income countries.**
+
+![concepts](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Fconcepts) ![mappings](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Fmappings) ![locales](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Flocales) ![locales-full](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Flocales-full) ![version](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Fversion) ![updated](https://img.shields.io/endpoint?url=https%3A%2F%2Fciellab.filipelopes.med.br%2Fapi%2Fv2%2Fstats%2Fbadges%2Fupdated)
+
+</div>
 
 CIEL sits between the language clinicians use at the point of care and the reference terminologies used for interoperability, reporting and research, such as SNOMED CT, ICD-10, ICD-11, RxNorm, ATC, LOINC, CVX and OMOP.
 
-| | |
-|---|---|
-| **Concepts** | 55,545 active |
-| **Mappings** | 333,362 active |
-| **Locales** | 23 (5 with more than 95% coverage) |
-| **Releases** | Monthly, managed entirely in [Open Concept Lab](https://openconceptlab.org/) |
-| **License** | [CC BY 4.0](LICENSE) |
-
-_Figures from the HEAD version, October 2026._
+- **Releases:** monthly, managed entirely in [Open Concept Lab](https://openconceptlab.org/)
+- **License:** [CC BY 4.0](LICENSE)
 
 ## Documentation
 
